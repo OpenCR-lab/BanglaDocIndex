@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+local-data/
+bocr-work/
+*.sqlite
+*.log
+pages/
+bangla-doc-index-work/
+local-work/

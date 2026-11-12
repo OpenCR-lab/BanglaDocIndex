@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use BanglaDocIndex, please cite it as below."
+title: "BanglaDocIndex: An Index of 19.9 Million Bangla Document Pages"
+type: dataset
+authors:
+  - family-names: Ashraf
+    given-names: Nafis
+repository-code: "https://github.com/OpenCR-lab/BanglaDocIndex"
+url: "https://huggingface.co/datasets/OpenCR-lab/BanglaDocIndex"
+license: Apache-2.0
+version: "1.0"
+date-released: "2026-11-12"
+keywords:
+  - Bangla
+  - Bengali
+  - document images
+  - OCR
+  - embeddings
